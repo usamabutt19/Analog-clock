@@ -1,5 +1,6 @@
 
 import "./App.css";
+// import Clock from "./components/New";
 import Clock from "./components/Clock";
 
 function App() {
